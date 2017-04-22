@@ -5,4 +5,4 @@ height = int(input())
 print("How much do you weigh?")
 weight = int(input())
 
-print("So, you're %r years old ld, %r tall and %r heavy" % (age, height, weight))
+print("So, you're %r years old, %r tall and %r heavy" % (age, height, weight))
