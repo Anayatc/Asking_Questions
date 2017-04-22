@@ -1,8 +1,8 @@
 print("How old are you?")
-age = input()
+age = int(input())
 print("How tall are you?")
-height = input()
+height = int(input())
 print("How much do you weigh?")
-weight = input()
+weight = int(input())
 
-print("So, you're %r ogit ld, %r tall and %r heavy" % (age, height, weight))
+print("So, you're %r years old ld, %r tall and %r heavy" % (age, height, weight))
